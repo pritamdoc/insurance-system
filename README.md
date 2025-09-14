@@ -1,2 +1,6 @@
 # insurance-system
-Demo
+  Start server
+  ```javascript
+    nodemon server.js
+
+
